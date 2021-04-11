@@ -2,7 +2,7 @@
 
 Some websites that I coded. You can use it to learn.
 
-### Usage
+### Shop website, can be used together with Sellix API as an automated shop.
 ![screenshot](https://i.imgur.com/21soHIa.png)
 
 ## Contributing
