@@ -1,5 +1,4 @@
 # HTML Websites
-
 Some websites that I coded. You can use them to learn.
 
 ### Shop website, can be used together with Sellix API as an automated shop.
