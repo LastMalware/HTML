@@ -1,6 +1,6 @@
 # HTML Websites
 
-# Shop website, can be used together with Sellix API as an automated shop.
+Shop website, can be used together with Sellix API as an automated shop.
 ![screenshot](https://i.imgur.com/oP7dEXZ.png)
 
 ## Contributing
